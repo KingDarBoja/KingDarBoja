@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi there, I'm Brandon (KingDarBoja)
+# 👋 Hi there, I'm Manuel Bojato (KingDarBoja)
 
 **Full-Stack Engineer & Open Source Builder**
 
-Building scalable, robust web applications and developer tools with modern web standards and data-driven systems.
+Results-oriented Full-Stack Software Developer with 8+ years of experience architecting scalable enterprise applications and cloud-native solutions using Angular, TypeScript, Node.js, and Python. I combine a creative approach to complex problem-solving with a rigorous commitment to code quality and highly collaborative teamwork. As a proactive learner driven by delivering high-impact business outcomes, I am currently expanding my expertise in modern data engineering and data science methodologies using Python to bring deeper analytical capabilities and data-driven insights to my development workflow.
 
 <p align="center">
   <a href="https://linkedin.com/in/mbojatop"><img alt="LinkedIn" src="assets/badges/social/linkedin.svg" /></a>
@@ -28,6 +28,7 @@ Building scalable, robust web applications and developer tools with modern web s
 ### 🛠️ Tech Stack & Ecosystem
 
 #### 🌐 Languages
+
 <p align="left">
   <img alt="TypeScript" src="assets/badges/languages/typescript.svg" />
   <img alt="JavaScript" src="assets/badges/languages/javascript.svg" />
@@ -49,6 +50,7 @@ Building scalable, robust web applications and developer tools with modern web s
 </details>
 
 #### 🎨 Frontend, Mobile & UI
+
 <p align="left">
   <img alt="Angular" src="assets/badges/frontend/angular.svg" />
   <img alt="RxJS" src="assets/badges/frontend/rxjs.svg" />
@@ -72,6 +74,7 @@ Building scalable, robust web applications and developer tools with modern web s
 </details>
 
 #### ⚙️ Backend, APIs & Data Engineering
+
 <p align="left">
   <img alt="NodeJS" src="assets/badges/backend/nodejs.svg" />
   <img alt="Flask" src="assets/badges/backend/flask.svg" />
@@ -94,6 +97,7 @@ Building scalable, robust web applications and developer tools with modern web s
 </details>
 
 #### ☁️ Cloud, DevOps & Platform
+
 <p align="left">
   <img alt="Google Cloud Platform" src="assets/badges/cloud_devops/gcp.svg" />
   <img alt="AWS" src="assets/badges/cloud_devops/aws.svg" />
@@ -111,6 +115,7 @@ Building scalable, robust web applications and developer tools with modern web s
 </details>
 
 #### 🛠️ Tooling, Linters & Environments
+
 <p align="left">
   <img alt="ESLint" src="assets/badges/tools/eslint.svg" />
   <img alt="Prettier" src="assets/badges/tools/prettier.svg" />
@@ -134,6 +139,7 @@ Building scalable, robust web applications and developer tools with modern web s
 </details>
 
 #### 🌱 Currently Learning & Exploring
+
 <p align="left">
   <img alt="FastAPI" src="assets/badges/learning/fastapi.svg" />
   <img alt="MongoDB" src="assets/badges/learning/mongodb.svg" />
@@ -161,6 +167,7 @@ Building scalable, robust web applications and developer tools with modern web s
 ### 🔭 Recent Open Source Activity
 
 <!-- START_SECTION:activity -->
+
 - 🟢 **Opened PR**: [Pull Request](https://github.com/maplepy/datacamp-downloader) in [`maplepy/datacamp-downloader`](https://github.com/maplepy/datacamp-downloader) <sub>`2026-08-29`</sub>
 - 🟢 **Opened PR**: [Pull Request](https://github.com/anno-mods/asset-extractor) in [`anno-mods/asset-extractor`](https://github.com/anno-mods/asset-extractor) <sub>`2026-08-21`</sub>
 <!-- END_SECTION:activity -->
