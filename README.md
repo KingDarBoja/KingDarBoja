@@ -161,10 +161,8 @@ Building scalable, robust web applications and developer tools with modern web s
 ### 🔭 Recent Open Source Activity
 
 <!-- START_SECTION:activity -->
-<!-- Recent activity will be populated by GitHub Actions -->
-
-_Contributions and pull requests across open source repositories will appear here._
-
+- 🟢 **Opened PR**: [Pull Request](https://github.com/maplepy/datacamp-downloader) in [`maplepy/datacamp-downloader`](https://github.com/maplepy/datacamp-downloader) <sub>`2026-08-29`</sub>
+- 🟢 **Opened PR**: [Pull Request](https://github.com/anno-mods/asset-extractor) in [`anno-mods/asset-extractor`](https://github.com/anno-mods/asset-extractor) <sub>`2026-08-21`</sub>
 <!-- END_SECTION:activity -->
 
 ---
