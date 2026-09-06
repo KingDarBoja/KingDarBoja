@@ -167,8 +167,9 @@ Results-oriented Full-Stack Software Developer with 8+ years of experience archi
 ### 🔭 Recent Open Source Activity
 
 <!-- START_SECTION:activity -->
+- ⚠️ **Closed Issue**: [firebase.json inconsistency](https://github.com/vscode-icons/vscode-icons/issues/3980) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-06`</sub>
+- 🟢 **Opened PR**: [Pull Request](https://github.com/vscode-icons/vscode-icons) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-06`</sub>
 - 🟢 **Opened PR**: [Pull Request](https://github.com/maplepy/datacamp-downloader) in [`maplepy/datacamp-downloader`](https://github.com/maplepy/datacamp-downloader) <sub>`2026-08-29`</sub>
-- 🟢 **Opened PR**: [Pull Request](https://github.com/anno-mods/asset-extractor) in [`anno-mods/asset-extractor`](https://github.com/anno-mods/asset-extractor) <sub>`2026-08-21`</sub>
 <!-- END_SECTION:activity -->
 
 ---
