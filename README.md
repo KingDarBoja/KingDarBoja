@@ -167,9 +167,10 @@ Results-oriented Full-Stack Software Developer with 8+ years of experience archi
 ### 🔭 Recent Open Source Activity
 
 <!-- START_SECTION:activity -->
-- ⚠️ **Closed Issue**: [firebase.json inconsistency](https://github.com/vscode-icons/vscode-icons/issues/3980) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-06`</sub>
-- 🟢 **Opened PR**: [Pull Request](https://github.com/vscode-icons/vscode-icons) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-06`</sub>
-- 🟢 **Opened PR**: [Pull Request](https://github.com/maplepy/datacamp-downloader) in [`maplepy/datacamp-downloader`](https://github.com/maplepy/datacamp-downloader) <sub>`2026-08-29`</sub>
+- 🟢 **Opened PR**: [Pull Request](https://github.com/FirebaseExtended/rxfire) in [`FirebaseExtended/rxfire`](https://github.com/FirebaseExtended/rxfire) <sub>`2026-09-25`</sub>
+- 🟢 **Labeled PR**: [Pull Request](https://github.com/vscode-icons/vscode-icons) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-18`</sub>
+- ⚠️ **Labeled Issue**: [[Icon Request]: Update MongoDB logo](https://github.com/vscode-icons/vscode-icons/issues/4255) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-18`</sub>
+- 🟢 **Labeled PR**: [Pull Request](https://github.com/cohstats/coh3-stats) in [`cohstats/coh3-stats`](https://github.com/cohstats/coh3-stats) <sub>`2026-09-13`</sub>
 <!-- END_SECTION:activity -->
 
 ---
