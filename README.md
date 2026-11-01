@@ -167,11 +167,12 @@ Results-oriented Full-Stack Software Developer with 8+ years of experience archi
 ### 🔭 Recent Open Source Activity
 
 <!-- START_SECTION:activity -->
-- 🟢 **Merged PR**: [Pull Request](https://github.com/cohstats/coh3-stats) in [`cohstats/coh3-stats`](https://github.com/cohstats/coh3-stats) <sub>`2026-09-28`</sub>
-- 🟢 **Merged PR**: [Pull Request](https://github.com/vscode-icons/vscode-icons) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-27`</sub>
-- ⚠️ **Closed Issue**: [Consider updating minimum supported 'vscode'](https://github.com/vscode-icons/vscode-icons/issues/3010) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-26`</sub>
-- 🟢 **Opened PR**: [Pull Request](https://github.com/FirebaseExtended/rxfire) in [`FirebaseExtended/rxfire`](https://github.com/FirebaseExtended/rxfire) <sub>`2026-09-25`</sub>
-- ⚠️ **Labeled Issue**: [[Icon Request]: Update MongoDB logo](https://github.com/vscode-icons/vscode-icons/issues/4255) in [`vscode-icons/vscode-icons`](https://github.com/vscode-icons/vscode-icons) <sub>`2026-09-18`</sub>
+- 🟢 **Merged PR**: [Pull Request](https://github.com/FirebaseExtended/rxfire) in [`FirebaseExtended/rxfire`](https://github.com/FirebaseExtended/rxfire) <sub>`2026-10-29`</sub>
+- ⚠️ **Opened Issue**: [Drop support for Firebase v9 and v10](https://github.com/FirebaseExtended/rxfire/issues/158) in [`FirebaseExtended/rxfire`](https://github.com/FirebaseExtended/rxfire) <sub>`2026-10-28`</sub>
+- 🟢 **Merged PR**: [Pull Request](https://github.com/angular/angularfire) in [`angular/angularfire`](https://github.com/angular/angularfire) <sub>`2026-10-27`</sub>
+- 🟢 **Merged PR**: [Pull Request](https://github.com/KingDarBoja/Anno-Encyclopaedia) in [`KingDarBoja/Anno-Encyclopaedia`](https://github.com/KingDarBoja/Anno-Encyclopaedia) <sub>`2026-10-26`</sub>
+- 🟢 **Closed PR**: [Pull Request](https://github.com/KingDarBoja/nx-firebase) in [`KingDarBoja/nx-firebase`](https://github.com/KingDarBoja/nx-firebase) <sub>`2025-07-14`</sub>
+- 🟢 **Merged PR**: [Pull Request](https://github.com/KingDarBoja/angularfire-docs) in [`KingDarBoja/angularfire-docs`](https://github.com/KingDarBoja/angularfire-docs) <sub>`2026-10-24`</sub>
 <!-- END_SECTION:activity -->
 
 ---
